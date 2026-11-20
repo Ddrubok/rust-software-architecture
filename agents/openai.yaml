@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Software Architecture"
+  short_description: "Design practical boundaries for Rust systems"
+  default_prompt: "Use $rust-software-architecture to design the first user flow and module or crate boundaries for my Rust project."
